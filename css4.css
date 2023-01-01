@@ -1,0 +1,392 @@
+.main{
+    height: 100vh;
+    width: 100vw;
+    background-color:hsl(226, 43%, 10%) ;
+}
+.intro{
+    height: 60vh;
+    width: 15vw;
+    background-color:hsl(235, 46%, 20%);
+    position: relative;
+    top: 20%;
+    left: 10%;
+    border-radius: 0px 0px 10px 10px;
+}
+.inner_intro{
+    
+    height: 42vh;
+    width: 15vw;
+    border-radius: 10px 10px 10px 10px;
+    background-color: hsl(235, 45%, 61%);
+   
+}
+.inner_intro img{
+    height: 25%;
+    width: 35%;
+    border: solid;
+    border-color: white;
+    border-radius: 50%;
+   position: relative;
+   top: 10%;
+   left: 16%;
+
+}
+.inner_intro h4{
+    color: white;
+    opacity: 0.5;
+    position: relative;
+   top: 15%;
+   left: 16%;
+}
+.inner_intro h1{
+    color: white;
+    position: relative;
+   top: 10%;
+   left: 16%;
+}
+.intro ul{
+    list-style: none;
+}
+.intro ul li{
+    padding-top: 7%;
+}
+.intro ul li a{
+   text-decoration: none;
+   color: white;
+   opacity: 0.5;
+   
+   
+}
+ /* ***************section1************  */
+
+.work{
+    height: 25vh;
+    width: 15vw;
+    background-color: hsl(15, 100%, 70%); 
+    position: relative;
+    left: 27%;
+    bottom: 40%;
+    border-radius: 10px 10px 10px 10px;
+}
+.work img{
+    height: 40%;
+    width: 40%;
+    position: relative;
+    left: 55%;
+   
+}
+.icon1 button img{
+height: 80%;
+width: 70%;
+}
+button{
+    background-color: transparent;
+    border: transparent;
+    position: relative;
+    bottom: 95%;
+    left: 65%;
+    height: 5%;
+    width: 20%;
+}
+.icon1{
+    height: 20vh;
+    width: 15vw;
+    background-color:hsl(235, 46%, 20%);
+    border-radius: 10px 10px 10px 10px;
+    position: relative;
+    bottom: 25%;
+}
+.icon1 h3{
+    position: relative;
+    top: 12.5%;
+    left: 12%;
+    color: white;
+}
+.icon1 h1{
+    position: relative;
+    top: 8%;
+    left: 12%;
+    color: white;
+}
+.icon1 h5{
+    position: relative;
+    left: 12%;
+    color: white;
+}
+
+/* ********************section2*************** */
+.work2{
+    height: 25vh;
+    width: 15vw;
+    background-color: hsl(195, 74%, 62%); 
+    position: relative;
+    left: 44%;
+    bottom: 65%;
+    border-radius: 10px 10px 10px 10px;
+}
+.work2 img{
+    height: 40%;
+    width: 40%;
+    position: relative;
+    left: 55%;
+   
+}
+.icon2 button img{
+height: 80%;
+width: 70%;
+}
+button{
+    background-color: transparent;
+    border: transparent;
+    position: relative;
+    bottom: 95%;
+    left: 65%;
+    height: 5%;
+    width: 20%;
+}
+.icon2{
+    height: 20vh;
+    width: 15vw;
+    background-color:hsl(235, 46%, 20%);
+    border-radius: 10px 10px 10px 10px;
+    position: relative;
+    bottom: 25%;
+}
+.icon2 h3{
+    position: relative;
+    top: 12.5%;
+    left: 12%;
+    color: white;
+}
+.icon2 h1{
+    position: relative;
+    top: 8%;
+    left: 12%;
+    color: white;
+}
+.icon2 h5{
+    position: relative;
+    left: 12%;
+    color: white;
+}
+/* ********************section3*************** */
+.work3{
+    height: 25vh;
+    width: 15vw;
+    background-color: hsl(348, 100%, 68%); 
+    position: relative;
+    left: 61%;
+    bottom: 90%;
+    border-radius: 10px 10px 10px 10px;
+}
+.work3 img{
+    height: 40%;
+    width: 40%;
+    position: relative;
+    left: 55%;
+   
+}
+.icon3 button img{
+height: 80%;
+width: 70%;
+}
+button{
+    background-color: transparent;
+    border: transparent;
+    position: relative;
+    bottom: 95%;
+    left: 65%;
+    height: 5%;
+    width: 20%;
+}
+.icon3{
+    height: 20vh;
+    width: 15vw;
+    background-color:hsl(235, 46%, 20%);
+    border-radius: 10px 10px 10px 10px;
+    position: relative;
+    bottom: 25%;
+}
+.icon3 h3{
+    position: relative;
+    top: 12.5%;
+    left: 12%;
+    color: white;
+}
+.icon3 h1{
+    position: relative;
+    top: 8%;
+    left: 12%;
+    color: white;
+}
+.icon3 h5{
+    position: relative;
+    left: 12%;
+    color: white;
+}
+
+/* ***********section4************************ */
+.work4{
+    height: 25vh;
+    width: 15vw;
+    background-color:hsl(145, 58%, 55%); 
+    position: relative;
+    left: 27%;
+    bottom: 82%;
+    border-radius: 10px 10px 10px 10px;
+}
+.work4 img{
+    height: 40%;
+    width: 40%;
+    position: relative;
+    left: 55%;
+   
+}
+.icon4 button img{
+height: 80%;
+width: 70%;
+}
+button{
+    background-color: transparent;
+    border: transparent;
+    position: relative;
+    bottom: 95%;
+    left: 65%;
+    height: 5%;
+    width: 20%;
+}
+.icon4{
+    height: 20vh;
+    width: 15vw;
+    background-color:hsl(235, 46%, 20%);
+    border-radius: 10px 10px 10px 10px;
+    position: relative;
+    bottom: 25%;
+}
+.icon4 h3{
+    position: relative;
+    top: 12.5%;
+    left: 12%;
+    color: white;
+}
+.icon4 h1{
+    position: relative;
+    top: 8%;
+    left: 12%;
+    color: white;
+}
+.icon4 h5{
+    position: relative;
+    left: 12%;
+    color: white;
+}
+/* ***********section5************************ */
+.work5{
+    height: 25vh;
+    width: 15vw;
+    background-color:hsl(264, 64%, 52%); 
+    position: relative;
+    left: 44%;
+    bottom: 107%;
+    border-radius: 10px 10px 10px 10px;
+}
+.work5 img{
+    height: 40%;
+    width: 40%;
+    position: relative;
+    left: 55%;
+   
+}
+.icon5 button img{
+height: 80%;
+width: 70%;
+}
+button{
+    background-color: transparent;
+    border: transparent;
+    position: relative;
+    bottom: 95%;
+    left: 65%;
+    height: 5%;
+    width: 20%;
+}
+.icon5{
+    height: 20vh;
+    width: 15vw;
+    background-color:hsl(235, 46%, 20%);
+    border-radius: 10px 10px 10px 10px;
+    position: relative;
+    bottom: 25%;
+}
+.icon5 h3{
+    position: relative;
+    top: 12.5%;
+    left: 12%;
+    color: white;
+}
+.icon5 h1{
+    position: relative;
+    top: 8%;
+    left: 12%;
+    color: white;
+}
+.icon5 h5{
+    position: relative;
+    left: 12%;
+    color: white;
+}
+/* *********************section6*************** */
+.work6{
+    height: 25vh;
+    width: 15vw;
+    background-color:hsl(43, 84%, 65%); 
+    position: relative;
+    left: 61%;
+    bottom: 132%;
+    border-radius: 10px 10px 10px 10px;
+}
+.work6 img{
+    height: 40%;
+    width: 40%;
+    position: relative;
+    left: 55%;
+   
+}
+.icon6 button img{
+height: 80%;
+width: 70%;
+}
+button{
+    background-color: transparent;
+    border: transparent;
+    position: relative;
+    bottom: 95%;
+    left: 65%;
+    height: 5%;
+    width: 20%;
+}
+.icon6{
+    height: 20vh;
+    width: 15vw;
+    background-color:hsl(235, 46%, 20%);
+    border-radius: 10px 10px 10px 10px;
+    position: relative;
+    bottom: 25%;
+}
+.icon6 h3{
+    position: relative;
+    top: 12.5%;
+    left: 12%;
+    color: white;
+}
+.icon6 h1{
+    position: relative;
+    top: 8%;
+    left: 12%;
+    color: white;
+}
+.icon6 h5{
+    position: relative;
+    left: 12%;
+    color: white;
+}
